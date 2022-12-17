@@ -1,2 +1,1 @@
-# DrowsinessDetection
-Drowsy Driver Safety Alert System
+# Drowsy Driver Safety Alert System
