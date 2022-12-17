@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 14 00:20:07 2020
 
-@author: T.i.Cissé
+@author: TiDev
 """
 
 from scipy.spatial import distance as dist
