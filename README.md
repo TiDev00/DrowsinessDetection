@@ -12,3 +12,5 @@ If you want to use the drowsiness detector just execute the command :
 ```
 python dectector.py
 ```
+
+Simply type 'q' on your keyboard to quit the program 
