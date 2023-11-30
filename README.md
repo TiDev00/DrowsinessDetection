@@ -1,5 +1,5 @@
 # Drowsy Driver Safety Alert System
-A system with OpenCv and Keras which will alert the driver when he feels sleepy.
+A system with OpenCv, Keras and DLib which will alert the driver when he feels sleepy.
 
 ## Packages and requirements 
 Before running the script execute the following command inside the project folder :
